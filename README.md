@@ -1,1 +1,1 @@
-# samsungtv-pihole
+pihole
